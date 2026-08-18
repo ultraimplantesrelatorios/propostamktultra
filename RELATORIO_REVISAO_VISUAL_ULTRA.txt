@@ -1,0 +1,30 @@
+REVISÃO VISUAL PREMIUM — PROPOSTA ULTRA IMPLANTES
+
+Correções executadas:
+- Primeira dobra compactada e sem altura artificial de tela inteira.
+- Título principal limitado por escala responsiva e largura editorial.
+- Escala tipográfica revisada para desktop, notebook, tablet e celular.
+- Seções e espaços verticais reduzidos.
+- Insights do Instagram destacados em painel translúcido com blur controlado.
+- Grade de resultados: quatro colunas no desktop e duas em telas menores.
+- Cards padronizados com bordas, sombras e cantos consistentes.
+- Blocos de escopo, responsabilidades, processo e investimento compactados.
+- Botões e estados de foco padronizados.
+- Breakpoints adicionados para 1180, 980, 767 e 480 px.
+- Proteção contra rolagem horizontal.
+- Preferência de movimento reduzido preservada.
+
+Conteúdo preservado:
+- R$ 5.000 com Meta Ads incluída.
+- Google Ads opcional por R$ 1.000.
+- Pagamento por boleto todo dia 20.
+- Primeiro vencimento em 20/08/2026.
+- Contrato de 12 meses.
+- Escopo, responsabilidades e links aprovados.
+- Insights reais dos últimos 30 dias.
+
+Conferência estrutural:
+- CSS com blocos balanceados.
+- Dados institucionais antigos removidos do painel de resultados.
+- Contrato incluído no pacote.
+- Arquivo index.html pronto para GitHub Pages.
