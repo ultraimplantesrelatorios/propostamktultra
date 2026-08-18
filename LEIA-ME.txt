@@ -1,0 +1,15 @@
+PACOTE PARA GITHUB PAGES - ULTRA IMPLANTES
+
+ARQUIVOS
+- index.html: proposta completa.
+- contrato-renovacao-ultra-implantes-12-meses.pdf: contrato aberto pelo botão da página.
+
+COMO PUBLICAR
+1. Abra o repositório correto no GitHub.
+2. Envie os dois arquivos acima para a raiz do repositório.
+3. Não altere os nomes dos arquivos.
+4. Em Settings > Pages, selecione a branch principal e a pasta raiz.
+5. Aguarde a publicação e teste o botão "Ler contrato de 12 meses".
+
+ATENÇÃO
+O contrato contém dados de qualificação das partes. Um site publicado pelo GitHub Pages pode ser acessado publicamente. Use repositório privado ou restrinja a divulgação do endereço.
