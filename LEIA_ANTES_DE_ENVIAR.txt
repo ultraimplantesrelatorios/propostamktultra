@@ -1,0 +1,23 @@
+ATUALIZAÇÃO OBRIGATÓRIA — PROPOSTA ULTRA IMPLANTES
+
+1. Abra o repositório propostamktultra no GitHub.
+2. Substitua o arquivo index.html antigo pelo index.html desta pasta.
+3. Substitua também o PDF do contrato pelo arquivo desta pasta.
+4. Confirme o commit na branch publicada pelo GitHub Pages.
+5. Aguarde a publicação e atualize a página com Ctrl + F5.
+
+CONFERÊNCIA VISUAL NO TOPO DA PÁGINA
+
+Não pode mais aparecer:
+- 14 anos
+- +14 mil pacientes
+- +25 mil implantes
+
+Deve aparecer:
+- 124.885 visualizações
+- 53.572 visualizadores
+- 659 interações
+- +126 seguidores líquidos
+
+Link público:
+https://ultraimplantesrelatorios.github.io/propostamktultra/
